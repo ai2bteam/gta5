@@ -50,7 +50,6 @@ Charlie Reed**, а также диджеи **Solomun, Dixon, Tale of Us, The Bla
 | gtaonline_highlife_artwork_png.png | Девушка в косухе и очках с карабином, в полный рост |
 | gtaonline_lastteamstanding_png.png | Трое окровавленных бойцов идут на камеру с оружием |
 | gtaonline_lossantosdrugwars_thelastdose_artwork_png.png | The Last Dose: девушка с афро и дробовиком, Dax с гранатомётом, коллаж |
-| gtaonline_taxiwork_png.png | Не персонаж — логотип Taxi Work (силуэт такси + небоскрёбы); просится в `logos/` |
 | gtaonline_the_chop_shop_dlc_artwork_1600.png | **Yusuf Amir** с шампанским и золотым пистолетом + команда свалки |
 | gtaonline_the_criminal_enterprises_alternative_artwork_png.png | Групповой арт: босс, байкерша, оружейница, владелец клуба + тачки |
 | gtaonline_the_criminal_enterprises_biker_artwork_png.png | Байкерша в красной бандане на красном спортбайке, пистолет у плеча |
