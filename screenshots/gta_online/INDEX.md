@@ -1,13 +1,13 @@
 # GTA Online — официальные промо-скриншоты
 
-Папка `screenshots/gta_online/` — официальные промо-кадры GTA Online от Rockstar Games (собраны через gtabase.com). Всего файлов: **1333**. Подавляющее большинство — **1920x1080**, формат `.jpg` (несколько `.png`). Лицензия у всех: Rockstar promo / fair use.
+Папка `screenshots/gta_online/` — официальные промо-кадры GTA Online от Rockstar Games (собраны через gtabase.com). Всего файлов: **1333** (1274 `.jpg` + 59 `.png`). Разрешение преимущественно **1920x1080** (1103 файлов); остальное — 1280x720, квадратные и широкоформатные баннерные кроп-версии. Лицензия у всех: Rockstar promo / fair use.
 
-> **Внимание при монтаже:** часть кадров несёт вотермарку **GTABase.com** в углу изображения. У таких файлов в тегах sidecar-а стоит `watermarked`, а в таблицах ниже описание помечено *(вотермарка GTABase)*. Такие кадры перед вставкой в видео нужно кадрировать (обрезать угол) или закрывать плашкой.
+> **Внимание при монтаже:** часть кадров (378 шт.) несёт вотермарку **GTABase.com** в углу изображения. У таких файлов в тегах sidecar-а стоит `watermarked`, а в таблицах ниже описание помечено *(вотермарка GTABase)*. Такие кадры перед вставкой в видео нужно кадрировать (обрезать угол) или закрывать плашкой.
 
 Кадры сгруппированы по эпохам обновлений (DLC). Внутри раздела — сортировка по имени файла. Для точного поиска используй теги в sidecar-ах: `grep -r "tags:.*ключевое-слово" --include="*.md"`.
 
 
-## Запуск и 2013–2014 (Beach Bum, Business, High Life, I'm Not a Hipster, Flight School, Festive Surprise) — 102 шт.
+## Запуск и 2013–2014 (Beach Bum, Business, High Life, I'm Not a Hipster, Flight School, Festive Surprise, Next-Gen / PC-релиз) — 102 шт.
 
 | Файл | Описание |
 |---|---|
@@ -115,15 +115,10 @@
 | `gtaonline_1196_festivesurprise_legionsquare_christmastree.jpg` | Огромная наряженная ель посреди заваленной снегом площади Legion Square, по пустой улице едет одинокий внедорожник. |
 
 
-## 2015 (Heists, Ill-Gotten Gains, Lowriders, Executives and Other Criminals, Freemode Events) — 181 шт.
+## 2015 (Heists, Ill-Gotten Gains, Lowriders, Executives and Other Criminals, Freemode Events) — 176 шт.
 
 | Файл | Описание |
 |---|---|
-| `gta_online_screenshot_geraldslastplay_mission1.jpg` | Трое игроков с автоматами и фонарями зачищают морозильную камеру с висящими тушами. *(вотермарка GTABase)* |
-| `gta_online_screenshot_geraldslastplay_mission2.jpg` | Перестрелка на парковке: игрок стреляет из пистолета из-за открытой двери седана, двое противников ведут ответный огонь. *(вотермарка GTABase)* |
-| `gta_online_screenshot_geraldslastplay_mission3.jpg` | Четверо игроков ведут бой среди стеллажей склада с коробками, кто-то стреляет стоя, кто-то прячется за ящиками. *(вотермарка GTABase)* |
-| `gta_online_screenshot_geraldslastplay_mission4.jpg` | Оранжевый гиперкар уходит от патрульной машины по солнечной улице у стадиона. *(вотермарка GTABase)* |
-| `gta_online_screenshot_geraldslastplay_mission5.jpg` | Группа игроков в уличной одежде ведёт огонь по противникам в переулке, рядом стоит синий классический седан-лоурайдер. *(вотермарка GTABase)* |
 | `gtaonline_12101_heistsupdate_humaneraid.jpg` | Доска подготовки к ограблению Humane Labs: карта Сан-Андреаса с отмеченными точками и список из пяти подготовительных этапов. |
 | `gtaonline_12102_heistsupdate_parachuting.jpg` | Игрок в чёрном парашюте скользит вдоль обрыва над огнями посёлка на фоне багрового заката, чуть выше идёт напарник. |
 | `gtaonline_12103_heistsupdate_hydra.jpg` | Команда игроков подбирается к истребителю вертикального взлёта Hydra в ангаре, пока техники в красных комбинезонах разгружают фургон. |
@@ -1071,7 +1066,7 @@
 | `gtaonline_thecriminalenterprises_screenshot_4.jpg` | Клиновидный суперкар в переливающейся голографической плёнке и с огромным антикрылом снят сзади на фоне закатного центра Лос-Сантоса. *(вотермарка GTABase)* |
 
 
-## 2023 (San Andreas Mercenaries, The Chop Shop) — 56 шт.
+## 2023 (San Andreas Mercenaries, The Chop Shop) — 61 шт.
 
 | Файл | Описание |
 |---|---|
@@ -1094,6 +1089,11 @@
 | `gta_online_san_andreas_mercenaries_update_screenshot_9_1080.jpg` | Трое игроков в бронежилетах позируют с тяжёлым оружием — РПГ в центре, миниганы по бокам — на ночной улице. *(вотермарка GTABase)* |
 | `gta_online_san_andreas_mercenaries_vapid_ratel_1080.jpg` | Ярко раскрашенная багги Vapid Ratel с каркасом и люстрой фар мчится по пустыне на закате, вдалеке соперники. *(вотермарка GTABase)* |
 | `gta_online_san_andreas_mercenaries_walton_l35_1080.jpg` | Бирюзовый лифтованный пикап Walton L35 с кенгурятником и дополнительными фарами стоит на лесной грунтовке в контровом свете. *(вотермарка GTABase)* |
+| `gta_online_screenshot_geraldslastplay_mission1.jpg` | Трое игроков с автоматами и фонарями зачищают морозильную камеру с висящими тушами. *(вотермарка GTABase)* |
+| `gta_online_screenshot_geraldslastplay_mission2.jpg` | Перестрелка на парковке: игрок стреляет из пистолета из-за открытой двери седана, двое противников ведут ответный огонь. *(вотермарка GTABase)* |
+| `gta_online_screenshot_geraldslastplay_mission3.jpg` | Четверо игроков ведут бой среди стеллажей склада с коробками, кто-то стреляет стоя, кто-то прячется за ящиками. *(вотермарка GTABase)* |
+| `gta_online_screenshot_geraldslastplay_mission4.jpg` | Оранжевый гиперкар уходит от патрульной машины по солнечной улице у стадиона. *(вотермарка GTABase)* |
+| `gta_online_screenshot_geraldslastplay_mission5.jpg` | Группа игроков в уличной одежде ведёт огонь по противникам в переулке, рядом стоит синий классический седан-лоурайдер. *(вотермарка GTABase)* |
 | `gta_online_screenshot_geraldslastplay_mission6.jpg` | Трое игроков с автоматическим оружием наизготовку стоят посреди улицы Лос-Сантоса во время финальной миссии Джеральда из обновления The Chop Shop. |
 | `gta_online_the_chop_shop.jpg` | Тюнингованный белый внедорожник с кенгурятником уходит от полиции ночью, в небе — вертолёт с прожектором. |
 | `gta_online_the_chop_shop_11.jpg` | Кабриолет с яркой рекламной ливреей Hardstand стоит в ангаре среди бирюзового и розового дыма, отражаясь в мокром полу. |
